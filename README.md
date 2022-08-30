@@ -1,10 +1,6 @@
 # php-horizon
 
-打开PHPer的开发视野，资源、框架、类库、前沿技术、最佳实践整理，方便查阅。
-
----
-
-- 这个列表中的内容有来自 [awesome-php](https://github.com/ziadoz/awesome-php) 的翻译, 有来自开发者周刊以及个人的积累等.
+PHPer的开发视野，资源、框架、类库、前沿技术、最佳实践整理，方便查阅。
 
 ## 学习资源
 >PHP相关的有参考价值的社区,博客,网站,文章,书籍,视频等资源
@@ -1072,3 +1068,6 @@
 - [formers/former](https://github.com/formers/former) - 强大的表单构造器
 - [Laravelium/laravel-feed](https://github.com/Laravelium/laravel-feed) - Feed 信息流生成器
 
+---
+
+- 这个列表中的内容有来自 [awesome-php](https://github.com/ziadoz/awesome-php) 的翻译, 有来自开发者周刊以及个人的积累等.
